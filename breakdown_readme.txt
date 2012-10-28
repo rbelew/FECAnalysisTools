@@ -15,6 +15,8 @@ pas2008    - committee contribution data
 The suffix, "2008", can be replaced with w/e
 you want. I used year because I also have 2012
 data in my DB. The suffix can be set in file.
+You also have to set some options inside the
+program (things like DB name, pw, host, etc).
 
 Here are some examples:
 
